@@ -7,3 +7,4 @@ Este proyecto tiene como objetivo poner en práctica los conocimientos adquirido
 @ClaudiaYLopezLafita
 @DanielVerano
 @ivannf
+@AlfonsoLD
